@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdullah Al Mamun</h1>
 <p align="center">
-  💻 Data Analyst Enthusiast| 🎓 CSE Graduate | 🤖 ML Enthusiast  
+  💻 Data Analyst Enthusiast | 🎓 CSE Graduate | 🤖 ML Enthusiast  
 </p>
 
 ---
